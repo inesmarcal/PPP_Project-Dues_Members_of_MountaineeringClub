@@ -1,2 +1,0 @@
-output1.bin
-output2.bin

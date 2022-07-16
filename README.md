@@ -10,19 +10,11 @@ Consists in develop a program that manage dues for members of a mountaineering c
 
 ## Technologies used:
 1. C ([documentation](https://devdocs.io/c/))
-2. [CLion](https://www.jetbrains.com/clion/)(for the first way to run)
 
 ## To run this project:
 [WARNING] CLion must be installed (for the first way to run)<br>
-You have two ways to run this project:
-1. Using CLion
-    * Download the folder "Project" that is inside "#clion_folder"
-    * Open this project with CLion<br>
-      ![image](https://i.imgur.com/omTIa1E.png) ![image](https://i.imgur.com/faeZmPV.png) <br>
-    * Run the program<br>
-      ![image](https://i.imgur.com/AJgteWA.png)
-
-2. Using Terminal:
+You have one way to run this project:
+1. Using Terminal:
     * Download the folder "src"
     * Compile the program
       ```shellscript
@@ -39,7 +31,7 @@ You have two ways to run this project:
       ```
 
 ## Notes important to read
-- The files that are on folder "resources" must be on the folder of "Project" (1st way to run) or on the same folder of *.c files (2nd way to run)
+- The files that are on folder "resources" must be on the same folder of *.c files 
 
 ## Authors:
 - [Inês Marçal](https://github.com/inesmarcal)
